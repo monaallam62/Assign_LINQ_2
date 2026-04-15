@@ -164,6 +164,14 @@ namespace Assign_LINQ_2
             //    Console.WriteLine(item);
             //}
             #endregion
+            #region Question21
+            //var result = Source.ProductList.Select(p => p.ProductName)
+            //                                 .Zip(Source.CustomerList.Select(c => c.CompanyName) , (p,c) => $"{p} -sold to-> {c}");
+            //foreach (var item in result)
+            //{
+            //    Console.WriteLine(item);
+            //}
+            #endregion
 
 
 
