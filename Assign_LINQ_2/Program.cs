@@ -147,6 +147,15 @@ namespace Assign_LINQ_2
             //    Console.WriteLine($"7 x {i} = {i*7}");
             //}
             #endregion
+            #region Question 19
+            //var evenNumbers = Enumerable.Range(1, 30).Where(n => n % 2 == 0);
+
+            //foreach(var number in evenNumbers)
+            //{
+            //    Console.WriteLine(number);
+            //}
+            #endregion
+
 
 
 
