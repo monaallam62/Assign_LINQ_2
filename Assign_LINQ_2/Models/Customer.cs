@@ -9,6 +9,7 @@ namespace Assign_LINQ_2.Models
 {
     internal class Customer
     {
+
         public string CustomerID { get; set; }
         public string CompanyName { get; set; }
         public string Address { get; set; }
