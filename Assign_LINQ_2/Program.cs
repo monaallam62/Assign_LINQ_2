@@ -36,7 +36,11 @@ namespace Assign_LINQ_2
             //    .All(p => p.UnitsInStock > 0);
             //Console.WriteLine($"All Seafood products in stock: {allSeafoodInStock}");
             #endregion
-
+            #region Question 5
+            //int[] ids = { 3, 9, 13, 18 };
+            //bool listContain9 = ids.Contains(9);
+            //Console.WriteLine(listContain9);
+            #endregion
         }
     }
 }
