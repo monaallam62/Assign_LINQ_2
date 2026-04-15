@@ -30,6 +30,12 @@ namespace Assign_LINQ_2
             //foreach (var product in cheapProducts)
             //    Console.WriteLine($"{product.ProductName}: ${product.UnitPrice}");
             #endregion
+            #region Question 4
+            //bool allSeafoodInStock = Source.ProductList
+            //    .Where(p => p.Category == "Seafood")
+            //    .All(p => p.UnitsInStock > 0);
+            //Console.WriteLine($"All Seafood products in stock: {allSeafoodInStock}");
+            #endregion
 
         }
     }
