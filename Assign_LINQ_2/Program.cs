@@ -85,6 +85,11 @@ namespace Assign_LINQ_2
             //    Console.WriteLine($"Country: {customer.Country} - Count: {customer.Count} - Total: {customer.TotalOrderValue}");
             //}
             #endregion
+            #region Question 10
+            //int unitsInStock = Source.ProductList.Where(p => p.UnitsInStock > 0).Count();
+            //Console.WriteLine(unitsInStock);
+            #endregion
+
 
 
 
