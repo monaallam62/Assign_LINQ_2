@@ -23,6 +23,13 @@ namespace Assign_LINQ_2
             //foreach (var product in pagedProducts)
             //    Console.WriteLine($"{product.ProductID}: {product.ProductName} - ${product.UnitPrice}");
             #endregion
+            #region Question 3
+            //var cheapProducts = Source.ProductList
+            //    .OrderBy(p => p.UnitPrice)
+            //    .TakeWhile(p => p.UnitPrice < 25);
+            //foreach (var product in cheapProducts)
+            //    Console.WriteLine($"{product.ProductName}: ${product.UnitPrice}");
+            #endregion
 
         }
     }
