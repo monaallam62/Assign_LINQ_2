@@ -10,6 +10,7 @@ namespace Assign_LINQ_2.Models
 {
     internal class Product
     {
+
         public int ProductID { get; set; }
         public string ProductName { get; set; }
         public string Category { get; set; }
