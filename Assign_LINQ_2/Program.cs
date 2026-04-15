@@ -72,6 +72,20 @@ namespace Assign_LINQ_2
             //    Console.WriteLine(category);
             //}
             #endregion
+            #region Quetion 9
+            //var customers = from c in Source.CustomerList
+            //                group c by c.Country into cGroup
+            //                select new
+            //                {
+            //                    Country = cGroup.Key,
+            //                    Count = cGroup.Count(),
+            //                    TotalOrderValue = cGroup.Sum(o => o.Orders.Sum(o => o.Total))
+            //                };
+            //foreach (var customer in customers) { 
+            //    Console.WriteLine($"Country: {customer.Country} - Count: {customer.Count} - Total: {customer.TotalOrderValue}");
+            //}
+            #endregion
+
 
 
         }
