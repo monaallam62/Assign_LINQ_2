@@ -126,6 +126,14 @@ namespace Assign_LINQ_2
             //    Console.WriteLine(item);
             //}
             #endregion
+            #region Question15
+            //var productDictionary = Source.ProductList.ToDictionary(u => u.ProductID);
+
+            //var productSearch = productDictionary[18];
+            //Console.WriteLine(productSearch);
+
+            #endregion
+
 
 
 
