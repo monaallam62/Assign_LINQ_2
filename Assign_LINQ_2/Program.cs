@@ -97,6 +97,15 @@ namespace Assign_LINQ_2
             //Console.WriteLine($"The Most Expensive: {mostExpensivePrice}");
 
             #endregion
+            #region Question12
+            //var distinctCategory = Source.ProductList.Select(p => p.Category).Distinct();
+
+            //Console.WriteLine("Distinct List: ");
+            //foreach (var category in distinctCategory)
+            //{
+            //    Console.WriteLine(category);
+            //}
+            #endregion
 
 
 
