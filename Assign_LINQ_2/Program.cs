@@ -116,6 +116,16 @@ namespace Assign_LINQ_2
             //    Console.WriteLine(i);
             //}
             #endregion
+            #region Question 14
+            //string[] list1 = { "Germany", "France", "UK", "Spain" };
+            //string[] list2 = { "france", "SPAIN", "Italy" };
+
+            //var result = list1.Except(list2, StringComparer.OrdinalIgnoreCase);
+
+            //foreach (var item in result) {
+            //    Console.WriteLine(item);
+            //}
+            #endregion
 
 
 
