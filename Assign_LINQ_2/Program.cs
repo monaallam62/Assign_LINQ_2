@@ -50,6 +50,18 @@ namespace Assign_LINQ_2
             //    Console.WriteLine($"Count: {group.Count()}");                
             //}
             #endregion
+            #region Question 7
+            //var groupedCategory = Source.ProductList.GroupBy(x => x.Category);
+
+            //foreach (var group in groupedCategory) { 
+            //    Console.WriteLine($"Category: {group.Key}");
+
+            //    foreach (var product in group)
+            //    {
+            //        Console.WriteLine(product.ProductName);
+            //    }          
+            //}
+            #endregion
         }
     }
 }
