@@ -155,6 +155,15 @@ namespace Assign_LINQ_2
             //    Console.WriteLine(number);
             //}
             #endregion
+            #region Question20
+            //var result = Source.ProductList.Select(n => n.ProductName)
+            //                               .Take(3)
+            //                               .Zip(Source.CustomerList.Select(n => n.CompanyName).Take(3));
+
+            //foreach (var item in result) { 
+            //    Console.WriteLine(item);
+            //}
+            #endregion
 
 
 
