@@ -62,6 +62,18 @@ namespace Assign_LINQ_2
             //    }          
             //}
             #endregion
+            #region Question 8
+            //var moreThan3Produects = Source.ProductList.GroupBy(n => n.Category).
+            //                                            Where(g => g.Count() > 3).
+            //                                            Select(g => g.Key);
+
+            //foreach(var category in moreThan3Produects)
+            //{
+            //    Console.WriteLine(category);
+            //}
+            #endregion
+
+
         }
     }
 }
