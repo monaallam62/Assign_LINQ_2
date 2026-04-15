@@ -137,6 +137,11 @@ namespace Assign_LINQ_2
             //var firstGreaterThan50 = Source.ProductList.First(n => n.UnitPrice > 50);
             //Console.WriteLine(firstGreaterThan50);
             #endregion
+            #region Question 17
+            //var firstGreaterThan500 = Source.ProductList.FirstOrDefault(n => n.UnitPrice > 500);
+            //Console.WriteLine(firstGreaterThan500);
+            #endregion
+
 
 
 
