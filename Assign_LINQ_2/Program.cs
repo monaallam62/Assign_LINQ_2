@@ -89,6 +89,14 @@ namespace Assign_LINQ_2
             //int unitsInStock = Source.ProductList.Where(p => p.UnitsInStock > 0).Count();
             //Console.WriteLine(unitsInStock);
             #endregion
+            #region Question11
+            //decimal cheapestPrice = Source.ProductList.Min(p => p.UnitPrice);
+            //decimal mostExpensivePrice = Source.ProductList.Max(p => p.UnitPrice);
+
+            //Console.WriteLine($"The Cheapest: {cheapestPrice}");
+            //Console.WriteLine($"The Most Expensive: {mostExpensivePrice}");
+
+            #endregion
 
 
 
