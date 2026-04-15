@@ -13,5 +13,6 @@ namespace Assign_LINQ_2.Models
         public DateTime OrderDate { get; set; }
         public decimal Total { get; set; }
         public override string ToString() => $"{OrderID}: {OrderDate:d} for {Total:C2}";
+
     }
 }
