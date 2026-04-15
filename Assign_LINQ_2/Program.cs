@@ -141,6 +141,13 @@ namespace Assign_LINQ_2
             //var firstGreaterThan500 = Source.ProductList.FirstOrDefault(n => n.UnitPrice > 500);
             //Console.WriteLine(firstGreaterThan500);
             #endregion
+            #region Question18
+            //foreach (var i in Enumerable.Range(0, 11))
+            //{
+            //    Console.WriteLine($"7 x {i} = {i*7}");
+            //}
+            #endregion
+
 
 
 
