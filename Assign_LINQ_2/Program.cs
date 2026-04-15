@@ -41,6 +41,15 @@ namespace Assign_LINQ_2
             //bool listContain9 = ids.Contains(9);
             //Console.WriteLine(listContain9);
             #endregion
+            #region Question 6 
+            //var groupedCategory = Source.ProductList.GroupBy(x => x.Category);
+
+            //foreach (var group in groupedCategory) { 
+
+            //    Console.WriteLine($"Category: {group.Key}");
+            //    Console.WriteLine($"Count: {group.Count()}");                
+            //}
+            #endregion
         }
     }
 }
