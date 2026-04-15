@@ -106,6 +106,17 @@ namespace Assign_LINQ_2
             //    Console.WriteLine(category);
             //}
             #endregion
+            #region Question13
+            //int[] setA = { 1, 3, 5, 7, 9, 11, 13 };
+            //int[] setB = { 3, 6, 9, 12, 15, 13 };
+
+            //var result = setA.Except(setB);
+
+            //foreach (int i in result) {
+            //    Console.WriteLine(i);
+            //}
+            #endregion
+
 
 
 
